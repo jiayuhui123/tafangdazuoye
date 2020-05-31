@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>startBG.png</file>
+        <file>startgame.png</file>
+        <file>map.jpg</file>
+        <file>jihuo.png</file>
+        <file>ta.png</file>
+    </qresource>
+</RCC>
